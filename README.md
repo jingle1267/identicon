@@ -11,7 +11,7 @@ This little library will produce the same shape and (nearly) the same color as G
 
 Demo
 ----
-[View Demo](https://rawgithub.com/stewartlord/identicon.js/master/demo.html)
+[View Demo](https://94275.cn/identicon/)
 
 Installation
 -----
